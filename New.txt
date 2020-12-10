@@ -1,2 +1,4 @@
 New file
 hello
+changed directory
+123456
